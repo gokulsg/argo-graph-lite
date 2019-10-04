@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/argo-graph-lite/static/css/main.1a3592a3.chunk.css",
+    "main.js": "/argo-graph-lite/static/js/main.c2ad9a37.chunk.js",
+    "main.js.map": "/argo-graph-lite/static/js/main.c2ad9a37.chunk.js.map",
+    "runtime~main.js": "/argo-graph-lite/static/js/runtime~main.7ffe45a9.js",
+    "runtime~main.js.map": "/argo-graph-lite/static/js/runtime~main.7ffe45a9.js.map",
+    "static/css/2.e81f0f91.chunk.css": "/argo-graph-lite/static/css/2.e81f0f91.chunk.css",
+    "static/js/2.0238ddca.chunk.js": "/argo-graph-lite/static/js/2.0238ddca.chunk.js",
+    "static/js/2.0238ddca.chunk.js.map": "/argo-graph-lite/static/js/2.0238ddca.chunk.js.map",
+    "index.html": "/argo-graph-lite/index.html",
+    "precache-manifest.6f690bb81d822705da8a4d5baaa1b79b.js": "/argo-graph-lite/precache-manifest.6f690bb81d822705da8a4d5baaa1b79b.js",
+    "service-worker.js": "/argo-graph-lite/service-worker.js",
+    "static/css/2.e81f0f91.chunk.css.map": "/argo-graph-lite/static/css/2.e81f0f91.chunk.css.map",
+    "static/css/main.1a3592a3.chunk.css.map": "/argo-graph-lite/static/css/main.1a3592a3.chunk.css.map",
+    "static/media/blueprint.css": "/argo-graph-lite/static/media/icons-20.c6e7874e.eot"
+  }
+}
