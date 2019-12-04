@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/argo-graph-lite/precache-manifest.46ba1c17aab4a902cf260cc2de10f2b8.js"
+  "/argo-graph-lite/precache-manifest.3a04781a605c0113024a996f88017151.js"
 );
 
 self.addEventListener('message', (event) => {
