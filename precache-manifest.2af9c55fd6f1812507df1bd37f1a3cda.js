@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1f871b1fcc642e84b2379a3e496dfce",
+    "revision": "4fd829c9985a759db638f6e4020a6a0c",
     "url": "/argo-graph-lite/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/argo-graph-lite/static/css/2.ae1386ab.chunk.css"
   },
   {
-    "revision": "1b06d8faf47d72d66b1c",
+    "revision": "20324ecc3274342478a2",
     "url": "/argo-graph-lite/static/css/main.fccc4950.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/argo-graph-lite/static/js/2.b483ed8b.chunk.js"
   },
   {
-    "revision": "1b06d8faf47d72d66b1c",
-    "url": "/argo-graph-lite/static/js/main.511ce6a0.chunk.js"
+    "revision": "20324ecc3274342478a2",
+    "url": "/argo-graph-lite/static/js/main.a29715ee.chunk.js"
   },
   {
     "revision": "d266ead501e3cff44520",
